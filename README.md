@@ -18,7 +18,7 @@
      This project is a portfolio project for a fictional design and photography company called Lumina Creative. 
     </div>
     <div align="center">
-        <a href="https://singular-haupia-112bef.netlify.app/" target="_blank">Link to the live website</a>
+        <a href="https://luminacreativedesigns.netlify.app/" target="_blank">Link to the live website</a>
     </div>
 </div>
 
