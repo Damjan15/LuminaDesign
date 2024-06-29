@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="javascript" />
   </div>
 
-  <h3 align="center">Tutor</h3>
+  <h3 align="center">Lumina Creative</h3>
 
    <div align="center">
      This project is a portfolio project for a fictional design and photography company called Lumina Creative. 
